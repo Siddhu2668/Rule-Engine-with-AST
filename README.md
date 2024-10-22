@@ -1,14 +1,3 @@
-<plan>
-  <step tool="functions.getfile">
-    <params>
-      {
-        "repo": "Siddhu2668/Rule-Engine-with-AST",
-        "path": "README.md",
-        "ref": "main"
-      }
-    </params>
-  </step>
-</plan>Here is the rewritten README for your Rule Engine Application:
 
 # Rule Engine Application
 
